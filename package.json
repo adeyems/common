@@ -1,6 +1,6 @@
 {
   "name": "@adeyemspub/common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Microservice API Test Project",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
