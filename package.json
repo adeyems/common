@@ -1,5 +1,5 @@
 {
-  "name": "@adeyemspub/common",
+  "name": "@adeyems/common",
   "version": "1.0.3",
   "description": "Microservice API Test Project",
   "main": "./build/index.js",
